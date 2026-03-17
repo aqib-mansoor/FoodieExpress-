@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+FoodieExpress - Customer App
 
-# Run and deploy your AI Studio app
+A modern multi-vendor e-commerce platform built with React + TypeScript where customers can browse and order from food, grocery, electronics, and bakery vendors.
 
-This contains everything you need to run your app locally.
+✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/b5dd2223-bb2b-47fb-9643-a40262a75f1d
+For Customers
 
-## Run Locally
+· 🛍️ Browse multiple categories (Food, Grocery, Electronics, Bakery)
+· 🏪 View vendor stores with products
+· 🔍 Search products and vendors
+· 🛒 Add to cart with quantity controls
+· 📦 Smooth checkout process
+· 📋 Order history tracking
+· ⭐ Rate and review products
+· ❤️ Wishlist save items
+· 👤 User profile management
+· 📍 Multiple address saving
 
-**Prerequisites:**  Node.js
+🎨 UI/UX
+
+· Smooth animations with Framer Motion
+· Fully responsive design
+· Loading skeletons
+· Toast notifications
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🛠️ Tech Stack
+
+· React 18
+· TypeScript
+· Tailwind CSS
+· Framer Motion
+· React Router
+· Formik + Yup
+· React Hot Toast
+· React Icons
+
+🚀-first approach
+· Works on all devices
+· Touch-friendly interactions
+
+📄 License
+
+MIT
